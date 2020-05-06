@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://cyberemv.github.io/</loc>
+  <lastmod>2020-05-06T18:43:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cyberemv.github.io/index.html</loc>
+  <lastmod>2020-05-06T18:43:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberemv.github.io/about-us.html</loc>
+  <lastmod>2020-05-06T18:43:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberemv.github.io/events.html</loc>
+  <lastmod>2020-05-06T18:43:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberemv.github.io/join-us.html</loc>
+  <lastmod>2020-05-06T18:43:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberemv.github.io/contact-us.html</loc>
+  <lastmod>2020-05-06T18:43:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberemv.github.io/donate.html</loc>
+  <lastmod>2020-05-06T18:43:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberemv.github.io/partner.html</loc>
+  <lastmod>2020-05-06T18:43:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberemv.github.io/volunteer.html</loc>
+  <lastmod>2020-05-06T18:43:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberemv.github.io/services.html</loc>
+  <lastmod>2020-05-06T18:43:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
